@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on my Bachelor's degree.
-- 🌱 I’m currently learning Pytthon and R.
-- 👯 I’m looking to collaborate on Financial Time Series Forecasting.
+- 🌱 I’m currently learning Python and R.
+- 👯 I’m looking to collaborate on any data science projects.
 - 💬 Ask me about coffee, weightlifting, and meditation!
 - 📫 You can reach me at connorpbeaton@gmail.com
 
